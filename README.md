@@ -73,6 +73,7 @@ Tools that automatically repair broken test locators and adapt to UI changes.
 - [Healenium](https://github.com/healenium/healenium) 🆓 - Self-healing library for Selenium, Appium, and Playwright. Replaces broken selectors at runtime.
 - [CodeceptJS](https://github.com/codeceptjs/CodeceptJS) 🆓 - End-to-end testing framework with built-in AI heal plugin that uses OpenAI, Anthropic, or local models to repair failing steps and propose locator fixes.
 - [optics-framework](https://github.com/mozarkai/optics-framework) 🆓 - Open-source test automation for mobile, web and Smart TV with a locator fallback ladder across XPath, text, OCR and image strategies, plus optional LLM-driven self-healing that recovers failed steps through the same keyword API.
+- [Alumnium](https://github.com/alumnium-hq/alumnium) 🆓 - Open-source AI layer that adds high-level natural language actions and accessibility-tree driven execution on top of Selenium, Playwright, and Appium without replacing existing test code.
 - [Testim](https://www.testim.io/) 💰 - Pioneer of self-healing tests with AI-driven smart locators.
 - [Functionize](https://www.functionize.com/) 💰 - AI-powered tests that adapt without selectors.
 - [TestSigma](https://testsigma.com/) 💰 - AI-driven low-code platform with self-healing across web, mobile, and API.
@@ -93,6 +94,7 @@ End-to-end testing platforms with AI at the core.
 - [QA Wolf](https://www.qawolf.com/) 💰 - AI-powered QA-as-a-service generating Playwright tests at scale.
 - [Bug0](https://bug0.com/) 💰 - Agentic testing platform built on the Planner, Generator, Healer pattern with MCP integration.
 - [Checksum](https://checksum.ai/) 💰 - Generates Playwright and Cypress tests from real user sessions.
+- [Octomind](https://octomind.dev/) 🆓💰 - AI agent that auto-generates, runs, and maintains Playwright end-to-end tests by discovering user flows in a running web application.
 - [Rainforest QA](https://www.rainforestqa.com/) 💰 - No-code testing platform with AI-driven test generation.
 - [BrowserStack Low Code Automation](https://www.browserstack.com/low-code-automation) 💰 - AI-powered low-code platform with self-healing agents, NL test authoring, and real device cloud execution.
 - [LambdaTest KaneAI](https://www.lambdatest.com/kane-ai) 💰 - GenAI-native test agent for authoring, executing, and maintaining tests using natural language.
